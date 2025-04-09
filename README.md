@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Severyn</h1>
 <h3 align="center">A passionate Full stack developer from Ukraine</h3>
 
+## Play Chess
+
 ![Cat Chess GIF](https://media.tenor.com/mqczZ2Mcl34AAAAC/cat-catur.gif)
 
-### Play Chess
-[![Chess.com](https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg)](https://www.chess.com)
+### 🏆 Шахові платформи
+[![Chess.com](https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg)](https://www.chess.com)  
 [![Lichess](https://upload.wikimedia.org/wikipedia/commons/8/86/Lichess_Logo.svg)](https://lichess.org)
+
 
 
 <h3 align="left">Connect with me:</h3>
