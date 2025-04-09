@@ -13,7 +13,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://lichess.org/@/LoneWolf_UA" target="_blank">
-        <img src="assets/lichess.svg" alt="Lichess" width="40" height="40">
+        <img src="assets/lichess.png" alt="Lichess" width="40" height="40">
     </a>
 </p>
 
