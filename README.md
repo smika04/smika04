@@ -9,11 +9,11 @@
 
 <p>
     <a href="https://www.chess.com/member/lonewolf_ua" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg" alt="Chess.com" width="40" height="40">
+        <img src="assets/chech_com.pgn" alt="Chess.com" width="40" height="40">
     </a>
     &nbsp;&nbsp;
     <a href="https://lichess.org/@/LoneWolf_UA" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Lichess_Logo.svg" alt="Lichess" width="40" height="40">
+        <img src="assets/lichess.svg" alt="Lichess" width="40" height="40">
     </a>
 </p>
 
