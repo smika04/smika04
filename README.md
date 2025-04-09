@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
 </p>
 
-<h4 align="left">Game engine
+<h4 align="left">Game engine</h4>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </p>
