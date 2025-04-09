@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Severyn</h1>
 <h3 align="center">A passionate Full stack developer from Ukraine</h3>
 
-## Play Chess
-
-![Cat Chess GIF](https://media.tenor.com/mqczZ2Mcl34AAAAC/cat-catur.gif)
-
 <h2>Play Chess</h2>
 
 <img src="https://media.tenor.com/mqczZ2Mcl34AAAAC/cat-catur.gif" alt="Cat Chess GIF" width="400">
