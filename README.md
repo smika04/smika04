@@ -5,7 +5,7 @@
 
 <img src="assets/cat-catur.gif" alt="Cat Chess GIF" width="400">
 
-<h3>🏆 Шахові платформи</h3>
+<h3>🏆 Chess platforms for matchmaking</h3>
 
 <p>
     <a href="https://www.chess.com" target="_blank">
