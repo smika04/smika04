@@ -9,7 +9,7 @@
 
 <p>
     <a href="https://www.chess.com/member/lonewolf_ua" target="_blank">
-        <img src="assets/chech_com.pgn" alt="Chess.com" width="40" height="40">
+        <img src="assets/chess_com.pgn" alt="Chess.com" width="40" height="40">
     </a>
     &nbsp;&nbsp;
     <a href="https://lichess.org/@/LoneWolf_UA" target="_blank">
