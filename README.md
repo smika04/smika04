@@ -74,7 +74,7 @@
 </p>
 
 <h4 align="left">Game engine
-<p align="left" padding:10px>
+<p align="left">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </p>
 
