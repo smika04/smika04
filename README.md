@@ -5,9 +5,21 @@
 
 ![Cat Chess GIF](https://media.tenor.com/mqczZ2Mcl34AAAAC/cat-catur.gif)
 
-### 🏆 Шахові платформи
-[![Chess.com](https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg)](https://www.chess.com)  
-[![Lichess](https://upload.wikimedia.org/wikipedia/commons/8/86/Lichess_Logo.svg)](https://lichess.org)
+<h2>Play Chess</h2>
+
+<img src="https://media.tenor.com/mqczZ2Mcl34AAAAC/cat-catur.gif" alt="Cat Chess GIF" width="400">
+
+<h3>🏆 Шахові платформи</h3>
+
+<p>
+    <a href="https://www.chess.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg" alt="Chess.com" width="40" height="40">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://lichess.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Lichess_Logo.svg" alt="Lichess" width="40" height="40">
+    </a>
+</p>
 
 
 
