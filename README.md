@@ -3,7 +3,7 @@
 
 <h2>Play Chess</h2>
 
-<img src="https://media.tenor.com/images/8c7f3cd76fdc7b70b6ca90a2d94a6e22/tenor.gif" alt="Cat Chess GIF" width="400">
+<img src="assets/cat-catur.gif" alt="Cat Chess GIF" width="400">
 
 <h3>🏆 Шахові платформи</h3>
 
