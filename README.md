@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Severyn</h1>
 <h3 align="center">A passionate Full stack developer from Ukraine</h3>
 
+<!-- Tenor GIF -->
+<div class="tenor-gif-embed" data-postid="20843952" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%">
+    <a href="https://tenor.com/view/cat-catur-mitokman-gif-20843952">Cat Catur GIF</a> from 
+    <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<!-- Chess.com & Lichess Links -->
+<h3 align="left">Play Chess</h3>
+<p align="left">
+    <a href="https://www.chess.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg" alt="Chess.com" width="40" height="40"/>
+    </a>
+    <a href="https://lichess.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Lichess_Logo.svg" alt="Lichess" width="40" height="40"/>
+    </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
