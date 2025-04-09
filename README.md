@@ -8,11 +8,11 @@
 <h3>🏆 Chess platforms for matchmaking</h3>
 
 <p>
-    <a href="https://www.chess.com" target="_blank">
+    <a href="[https://www.chess.com](https://www.chess.com/member/lonewolf_ua)" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess.com-logo.svg" alt="Chess.com" width="40" height="40">
     </a>
     &nbsp;&nbsp;
-    <a href="https://lichess.org" target="_blank">
+    <a href="[https://lichess.org](https://lichess.org/@/LoneWolf_UA)" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Lichess_Logo.svg" alt="Lichess" width="40" height="40">
     </a>
 </p>
