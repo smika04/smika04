@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Severyn</h1>
-<h3 align="center">A passionate Full stack developer from Ukraine</h3>
+<h3 align="center">blabla</h3>
 
 <h2>Play Chess</h2>
-
 <img src="assets/cat-catur.gif" alt="Cat Chess GIF" width="400">
-
 <h3>🏆 Chess platforms for matchmaking</h3>
 
 <p>
