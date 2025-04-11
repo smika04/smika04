@@ -2,7 +2,7 @@
 <h3 align="center">Highly motivated programmer 🚀💻🔥</h3>
 
 <p>
-      <img src="assets/1_aniyNTcHORbvDiLGUzJSsQ.gif" alt="Chess.com" width="100%" height="300">
+      <img src="assets/1_aniyNTcHORbvDiLGUzJSsQ.gif" alt="Chess.com" width="100%" height="300" margin-left="30" margin-right="30" >
 </p>
 
 - 💬 Ask me about **Everything backend side😎**
