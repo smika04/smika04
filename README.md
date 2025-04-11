@@ -8,11 +8,11 @@
 <div>
 <ul>
   <li>
-    <p>💬 Ask me about <strong>Everything backend side😎</strong></p>
+    <p>💬 Ask me about - <strong>Everything backend side😎</strong></p>
   </li>
 
   <li>
-    <p>📫 How to reach me <strong>cool.muzzy.gmaio.com@gmail.com</strong></p>
+    <p>📫 How to reach me <strong><a href="mailto:cool.muzzy.gmaio.com@gmail.com">gmail</strong></p>
   </li>
 
   <li>
