@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Severyn</h1>
 <h3 align="center">Highly motivated programmer 🚀💻🔥</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
+<p>
+      <img src="assets/1_aniyNTcHORbvDiLGUzJSsQ.gif" alt="Chess.com" width=400" height="800">
+</p>
 
 - 💬 Ask me about **Everything backend side😎**
 - 📫 How to reach me **cool.muzzy.gmaio.com@gmail.com**
+
+- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
 
 <h2>Play Chess</h2>
 <img src="assets/cat-catur.gif" alt="Cat Chess GIF" width="400">
@@ -97,8 +101,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smika04&theme=dark" alt="smika04" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smika04&label=Profile%20views&color=0e75b6&style=flat" alt="smika04" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smika04&show_icons=true&locale=en" alt="smika04" /></p>
