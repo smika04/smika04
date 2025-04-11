@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Severyn</h1>
-<h3 align="center">blabla</h3>
+<h3 align="center">Highly motivated programmer 🚀💻🔥</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
 
+- 💬 Ask me about **Everything backend side😎**
 - 📫 How to reach me **cool.muzzy.gmaio.com@gmail.com**
 
 <h2>Play Chess</h2>
