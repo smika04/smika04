@@ -5,6 +5,10 @@
 <img src="assets/cat-catur.gif" alt="Cat Chess GIF" width="400">
 <h3>🏆 Chess platforms for matchmaking</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smika04&label=Profile%20views&color=0e75b6&style=flat" alt="smika04" /> </p>
+
+- 📫 How to reach me **cool.muzzy.gmaio.com@gmail.com**
+
 <p>
     <a href="https://www.chess.com/member/lonewolf_ua" target="_blank">
         <img src="assets/chess_com.png" alt="Chess.com" width="40" height="40">
@@ -92,3 +96,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smika04&theme=dark" alt="smika04" /></p>
