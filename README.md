@@ -21,7 +21,7 @@
 </ul>
 </div>
 
-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
 
 <h2>Play Chess</h2>
 <img src="assets/cat-catur.gif" alt="Cat Chess GIF" width="400">
