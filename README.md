@@ -6,25 +6,20 @@
 </p>
 
 <div>
-  <ul>
-    <li>
-      <p>💬 Ask me about <strong>Everything backend side😎</strong></p>
-    </li>
+<ul>
+  <li>
+    <p>💬 Ask me about <strong>Everything backend side😎</strong></p>
+  </li>
 
-    <li>
-      <p>📫 How to reach me <strong>cool.muzzy.gmaio.com@gmail.com</strong></p>
-    </li>
-    
-    <li>
-      <p>🎮 Play games with me <a href="https://steamcommunity.com/profiles/76561198844006846/" target="_blank">steam</a></p>
-    </li>
-  </ul>
+  <li>
+    <p>📫 How to reach me <strong>cool.muzzy.gmaio.com@gmail.com</strong></p>
+  </li>
+
+  <li>
+    <p>🎮 Play games with me <a href="https://steamcommunity.com/profiles/76561198844006846/" target="_blank">steam</a></p>
+  </li>
+</ul>
 </div>
-
-
-- 💬 Ask me about **Everything backend side😎**
-- 📫 How to reach me **cool.muzzy.gmaio.com@gmail.com**
-- 🎮 Play games with me  
 
 - <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smika04&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="smika04" /></p>
 
